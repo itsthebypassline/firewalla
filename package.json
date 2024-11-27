@@ -17,7 +17,7 @@
     "async": "^2.1.1",
     "bee-queue": "^1.2.2",
     "bluebird": "^3.5.5",
-    "body-parser": "1.9.x",
+    "body-parser": "1.20.3",
     "botbuilder": "^0.6.1",
     "camel-case": "^3.0.0",
     "child-process-promise": "*",
